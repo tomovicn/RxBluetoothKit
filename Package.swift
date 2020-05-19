@@ -23,7 +23,8 @@ let package = Package(
                 path: ".",
                 exclude: [
                     "Example",
-                    "Tests"
+                    "Tests",
+                    "Source/Info.plist"
                 ],
                 sources: [
                     "Source"
